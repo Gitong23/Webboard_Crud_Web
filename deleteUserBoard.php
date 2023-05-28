@@ -123,59 +123,7 @@
 
     ?>
 
-    <!-- <div class="album py-5 my-5">
-        <div class="container">
-
-            <div class="row row-cols-1 g-3">
-
-                <div class="col">
-                    <div class="card shadow-sm">
-                        <div class="card-body">
-                        <h4 class="card-text">This is a wiional content. This content is a little bit longer.</h4>
-                        
-                        <form action="deleteUserBoard.php" method="post">
-                            <input type="hidden" name="delete_id" value="">
-                            <div class="d-flex justify-content-end align-items-center py-2">
-                                <button type="button" class="btn btn-sm btn-danger">Delete</button>
-                            </div>
-                        </form>
-                        
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col">
-                    <div class="card shadow-sm">
-                        <div class="card-body">
-                        <h4 class="card-text">This is a wiional content. This content is a little bit longer.</h4>
-                        
-                        <div class="d-flex justify-content-end align-items-center py-2">
-                            <button type="button" class="btn btn-sm btn-danger">Delete</button>
-                        </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col">
-                    <div class="card shadow-sm">
-                        <div class="card-body">
-                        <h4 class="card-text">This is a wiional content. This content is a little bit longer.</h4>
-                        
-                        <div class="d-flex justify-content-end align-items-center py-2">
-                            <button type="button" class="btn btn-sm btn-danger">Delete</button>
-                        </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </div> -->
-
+    
 
     <!-- bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
